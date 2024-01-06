@@ -21,7 +21,7 @@
   - Dependencies: package.json and package lock: 🖐️ used
   - Module-based permissions model: 🎓 known
   - Isolation with modularity
-  - Dependency injection
+  - Dependency injection: 👂 heard
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
@@ -86,10 +86,10 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S): 🎓 known
-  - TCP/SSL: 🎓 known
-  - UDP: 🎓 known
-  - TLS: 🎓 known
+  - HTTP(S): 🖐️ used
+  - TCP/SSL: 🖐️ used
+  - UDP: 🖐️ used
+  - TLS: 🖐️ used
   - Websocket: 👂 heard
   - SSE
   - HTTP/3 (QUIC)
@@ -98,7 +98,7 @@
   - RPC
   - Routing: 👂 heard
   - DoS: 🎓 known
-  - DDoS: 🎓 known
+  - DDoS: 🖐️ used
   - XSS
   - Path traversal
   - CSRF
@@ -116,14 +116,14 @@
   - Native test runner: 👂 heard
   - Logging
   - Application configuring
-  - Testing: 🎓 known
-  - CI/CD: 🎓 known
+  - Testing: 🖐️ used
+  - CI/CD: 🖐️ used
   - Readable: 🎓 known
   - Writable: 🎓 known
   - Transform
   - back pressure
   - Buffer
-  - Console: 🎓 known
+  - Console: 🖐️ used
   - Inspector: 🎓 known
   - Reliability: 🎓 known
   - Quality

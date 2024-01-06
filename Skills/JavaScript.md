@@ -1,17 +1,17 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object: 🖐️ used
+  - Object: 🙋 explained
   - this: 🖐️ used
-  - arrow function: 🖐️ used
-  - async function: 🖐️ used
+  - arrow function: 🙋 explained
+  - async function: 🙋 explained
   - call: 🖐️ used
   - bind: 🖐️ used
   - apply: 🖐️ used
   - instanceof: 🖐️ used
   - ...spread: 🎓 known
   - ...rest: 🎓 known
-  - typeof: 🖐️ used
+  - typeof: 🙋 explained
   - destructuring: 🎓 known
   - generator: 🎓 known
   - iterator: 🖐️ used
@@ -41,38 +41,38 @@
   - Symbol: 🖐️ used
   - Reflect: 🎓 known
 - Statements
-  - if: 🖐️ used
-  - while: 🖐️ used
-  - do..while: 🖐️ used
-  - for: 🖐️ used
-  - for..in: 🖐️ used
-  - for..of: 🖐️ used
-  - for await: 🖐️ used
-  - throw: 🖐️ used
+  - if: 🙋 explained
+  - while: 🙋 explained
+  - do..while: 🙋 explained
+  - for: 🙋 explained
+  - for..in: 🙋 explained
+  - for..of: 🙋 explained
+  - for await: 🙋 explained
+  - throw: 🙋 explained
   - break: 🖐️ used
   - continue: 🖐️ used
-  - import: 🖐️ used
-  - export: 🖐️ used
+  - import: 🙋 explained
+  - export: 🙋 explained
   - label: 🖐️ used
-  - try..catch: 🖐️ used
+  - try..catch: 🙋 explained
   - switch: 🖐️ used
   - class: 🖐️ used
   - new Error: 🖐️ used
   - with: 🖐️ used
 - Functions
-  - function declaration: 🖐️ used
-  - function expression: 🖐️ used
-  - return: 🖐️ used
+  - function declaration: 🙋 explained
+  - function expression: 🙋 explained
+  - return: 🙋 explained
   - default parameters: 🖐️ used
   - functional object: 🖐️ used
 - Data structures
-  - Array: 🖐️ used
+  - Array: 🙋 explained
   - mixin: 🎓 known
   - extend: 🎓 known
   - typed arrays: 🖐️ used
   - Map: 🖐️ used
   - Set: 🖐️ used
-  - undefined: 🖐️ used
+  - undefined: 🙋 explained
   - null: 🖐️ used
   - Proxy: 🖐️ used
   - weak collections: 🎓 known

@@ -1,27 +1,27 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value: 🖐️ used
-  - identifier: 🖐️ used
-  - variable: 🖐️ used
-  - constant: 🖐️ used
-  - scalar: 🖐️ used
-  - literal: 🖐️ used
-  - expression: 🖐️ used
-  - heap: 🖐️ used
-  - function: 🖐️ used
+  - value:🙋 explained
+  - identifier: 🙋 explained
+  - variable: 🙋 explained
+  - constant: 🙋 explained
+  - scalar: 🙋 explained
+  - literal: 🙋 explained
+  - expression: 🙋 explained
+  - heap: 🙋 explained
+  - function: 🙋 explained
   - procedure: 🖐️ used
-  - method: 🖐️ used
-  - class: 🖐️ used
+  - method: 🙋 explained
+  - class: 🙋 explained
   - prototype: 🖐️ used
   - event: 🖐️ used
-  - type: 🖐️ used
+  - type: 🙋 explained
   - primitive types: 🖐️ used
   - reference types: 🖐️ used
   - flag: 🖐️ used
   - lexical scope: 🖐️ used
-  - code block: 🖐️ used
-  - conditions: 🖐️ used
+  - code block: 🙋 explained
+  - conditions: 🙋 explained
   - loops: 🖐️ used
   - assignment: 🖐️ used
   - regular expression: 🖐️ used
@@ -32,15 +32,15 @@
 - Functions
   - signature: 🖐️ used
   - argument: 🖐️ used
-  - parameter: 🖐️ used
-  - pure function: 🖐️ used
-  - lambda expression: 🖐️ used
+  - parameter: 🙋 explained
+  - pure function: 🙋 explained
+  - lambda expression: 🙋 explained
   - side effects: 🖐️ used
   - closure: 🖐️ used
   - partial application: 🖐️ used
   - curry: 🖐️ used
-  - higher order: 🖐️ used
-  - recursion: 🖐️ used
+  - higher order: 🙋 explained
+  - recursion: 🙋 explained
   - callback: 🖐️ used
   - listener: 🖐️ used
   - compose: 🖐️ used
@@ -53,14 +53,14 @@
   - generator: 🎓 known
   - coroutine: 🎓 known
 - Data structures
-  - array: 🖐️ used
+  - array: 🙋 explained
   - structure: 🖐️ used
   - record: 🎓 known
   - enum: 🖐️ used
-  - instance: 🖐️ used
-  - object: 🖐️ used
-  - class: 🖐️ used
-  - collection: 🖐️ used
+  - instance: 🙋 explained
+  - object: 🙋 explained
+  - class: 🙋 explained
+  - collection: 🙋 explained
   - set: 🖐️ used
   - hash table: 🖐️ used
   - linked list: 🖐️ used
@@ -81,9 +81,8 @@
   - compiler: 🎓 known
   - transpiler: 🎓 known
   - linter: 🎓 known
-  - polyfill: 👂 heard
-  - debugger: 👂 heard
-  - garbage collection: 🎓 known
+  - polyfill: 🎓 known
+  - debugger: 🎓 known
   - refactoring: 🖐️ used
   - code review: 🖐️ used
   - antipatterns: 🖐️ used
@@ -96,11 +95,11 @@
   - spaghetti: 🖐️ used
   - silver bullet: 🎓 known
   - not invented here: 🎓 known
-  - dead code: 🖐️ used
-  - unreachable code: 🖐️ used
-  - duplicate code: 🖐️ used
+  - dead code:  🙋 explained
+  - unreachable code:  🙋 explained
+  - duplicate code:  🙋 explained
   - exception: 🖐️ used
   - return early: 🎓 known
   - unittest: 🖐️ used
-  - git: 🖐️ used
-  - github: 🖐️ used
+  - git:  🙋 explained
+  - github:  🙋 explained
