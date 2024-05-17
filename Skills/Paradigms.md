@@ -21,8 +21,8 @@
   - Metaprogramming
   - Actor model
 - OOP basics
-  - constructor: 🎓 known
-  - new: 🎓 known
+  - constructor: 🖐️ used
+  - new: 🖐️ used
   - Static method: 🎓 known
   - Method: 🎓 known
   - Async method: 🎓 known
@@ -38,7 +38,7 @@
   - Encapsulation: 🎓 known
   - Hidden class: 🎓 known
   - Object form
-  - instance: 🎓 known
+  - instance: 🖐️ used
   - Introspection
   - Reflection
 - Patterns
@@ -49,7 +49,7 @@
   - Observer: 👂 heard
   - Strategy
   - Facade
-  - Proxy: 🎓 known
+  - Proxy: 🖐️ used
   - Chain of Responsibility
   - Command: 🎓 known
   - Iterator: 🎓 known

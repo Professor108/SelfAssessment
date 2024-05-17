@@ -3,8 +3,8 @@
 - Theory
   - Event loop: 🎓 known
   - try..catch: 🎓 known
-  - Non-blocking: 👂 heard
-  - Async I/O: 👂 heard
+  - Non-blocking: 🎓 known
+  - Async I/O: 🎓 known
   - Thread pool
   - Pattern Reactor
   - CAS operations
@@ -20,11 +20,11 @@
   - Parallel programming: 🎓 known
   - Actor Model
   - Thread
-  - Process: 👂 heard
+  - Process: 🎓 known
 - Async contracts
   - Callbacks: 🖐️ used
   - Callback-last-error-first: 🖐️ used
-  - Thenable: 👂 heard
+  - Thenable: 🎓 known
   - Promise: 🖐️ used
   - Async/await: 🖐️ used
   - Future
@@ -50,11 +50,11 @@
   - EventEmitter: 🎓 known
   - Observable/Observer: 👂 heard
   - Readable: 🎓 known
-  - Writable: 🎓 known
+  - Writable: 🖐️ used
   - Transform
-  - Async : 👂 heard
-  - Async Queue: 👂 heard
-  - Async Collector: 👂 heard
+  - Async : 🎓 known
+  - Async Queue: 🎓 known
+  - Async Collector: 🎓 known
   - Semaphore: 🎓 known
   - Mutex: 🎓 known
   - Spin Lock
