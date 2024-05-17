@@ -5,25 +5,25 @@
   - try..catch: 🎓 known
   - Non-blocking: 🎓 known
   - Async I/O: 🎓 known
-  - Thread pool
+  - Thread pool: 👂 heard
   - Pattern Reactor
   - CAS operations
   - epoll
   - kqueue
-  - Completion ports
-  - Event ports
+  - Completion ports: 👂 heard
+  - Event ports: 👂 heard
   - libuv
-  - Race conditions: 🎓 known
-  - Dead locks: 🎓 known
+  - Race conditions: 🖐️ used
+  - Dead locks: 🖐️ used
   - Live locks
   - Concurrent programming
   - Parallel programming: 🎓 known
   - Actor Model
-  - Thread
-  - Process: 🎓 known
+  - Thread: 👂 heard
+  - Process: 🖐️ used
 - Async contracts
   - Callbacks: 🖐️ used
-  - Callback-last-error-first: 🖐️ used
+  - Callback-last-error-first: 🙋 explained
   - Thenable: 🎓 known
   - Promise: 🖐️ used
   - Async/await: 🖐️ used
@@ -32,34 +32,34 @@
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event: 👂 heard
+  - Event: 🖐️ used
   - Coroutine
   - Goroutine
-  - Signal: 👂 heard
+  - Signal: 🖐️ used
   - Stream
   - Chain of responsibility
-  - Middleware: 👂 heard
+  - Middleware: 🖐️ used
   - Locks
 - Async adapters and utils
   - callbackify: 👂 heard
-  - promisify: 👂 heard
-  - asyncify: 👂 heard
+  - promisify: 🎓 known
+  - asyncify: 🎓 known
   - callbacks compose
   - async compose
 - Async abstractions interfaces
   - EventEmitter: 🎓 known
   - Observable/Observer: 👂 heard
-  - Readable: 🎓 known
+  - Readable: 🖐️ used
   - Writable: 🖐️ used
   - Transform
   - Async : 🎓 known
   - Async Queue: 🎓 known
   - Async Collector: 🎓 known
-  - Semaphore: 🎓 known
-  - Mutex: 🎓 known
+  - Semaphore: 🖐️ used
+  - Mutex: 🖐️ used
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers: 👂 heard
+  - Timers: 🖐️ used
   - setImmediate: 🎓 known
   - nextTick
   - AbortController
@@ -81,15 +81,15 @@
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
-  - async.js library: 👂 heard
+  - async.js library: 🎓 known
   - RxJS library
-  - Async composition: 👂 heard
-  - Promise.all
-  - Promise.allSettled
-  - Promise.race
-  - Promise.any
+  - Async composition: 🎓 known
+  - Promise.all: 👂 heard
+  - Promise.allSettled: 👂 heard
+  - Promise.race: 👂 heard
+  - Promise.any: 👂 heard
   - Web Locks API: 👂 heard
   - IPC
   - Channel API: 👂 heard
   - Revealing Constructor
-  - Web Locks API: 👂 heard
+    - Web Locks API: 🎓 known

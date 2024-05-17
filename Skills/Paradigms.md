@@ -2,22 +2,22 @@
 
 - Theory
   - Procedural programming: 🎓 known
-  - Imperative programming: 👂 heard
-  - Structured programming: 👂 heard
-  - Non-structured programming: 👂 heard
+  - Imperative programming: 🎓 known
+  - Structured programming: 🎓 known
+  - Non-structured programming: 🎓 known
   - Functional programming: 🎓 known
-  - Prototype-based programming
+  - Prototype-based programming:👂 heard
   - Object-oriented programming: 🎓 known
-  - Object-based programming
-  - Generic programming
-  - Concurrent computing
+  - Object-based programming:👂 heard
+  - Generic programming:👂 heard
+  - Concurrent computing:👂 heard
   - Asyncronous programming: 🎓 known
   - Parallel programming: 🎓 known
   - Reactive programming: 🎓 known
   - FRP (Functional-reactive)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming
+  - Multi-paradigm programming: 🎓 known
   - Metaprogramming
   - Actor model
 - OOP basics
@@ -25,15 +25,15 @@
   - new: 🖐️ used
   - Static method: 🎓 known
   - Method: 🎓 known
-  - Async method: 🎓 known
-  - Getters, Setters: 🎓 known
-  - Public fields
-  - Private fields
+  - Async method: 🖐️ used
+  - Getters, Setters: 🖐️ used
+  - Public fields:🖐️ used
+  - Private fields:🖐️ used
   - Field declarations: 🎓 known
   - Inheritance: 🎓 known
-  - Parent class
-  - Polymorphism: 🎓 known
-  - Abstract class
+  - Parent class:🖐️ used
+  - Polymorphism: 🖐️ used
+  - Abstract class:🖐️ used
   - Interface: 🎓 known
   - Encapsulation: 🎓 known
   - Hidden class: 🎓 known
@@ -53,9 +53,9 @@
   - Chain of Responsibility
   - Command: 🎓 known
   - Iterator: 🎓 known
-  - State
-  - Bridge
-  - Builder
+  - State: 🎓 known
+  - Bridge: 🎓 known
+  - Builder: 🎓 known
   - Prototype: 🎓 known
   - Composite
   - Decorator

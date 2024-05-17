@@ -13,40 +13,40 @@
   - procedure: 🖐️ used
   - method: 🙋 explained
   - class: 🙋 explained
-  - prototype: 🖐️ used
-  - event: 🖐️ used
+  - prototype: 🙋 explained
+  - event: 🙋 explained
   - type: 🙋 explained
-  - primitive types: 🖐️ used
-  - reference types: 🖐️ used
-  - flag: 🖐️ used
-  - lexical scope: 🖐️ used
+  - primitive types: 🙋 explained
+  - reference types: 🙋 explained
+  - flag: 🙋 explained
+  - lexical scope: 🙋 explained
   - code block: 🙋 explained
   - conditions: 🙋 explained
-  - loops: 🖐️ used
-  - assignment: 🖐️ used
-  - regular expression: 🖐️ used
+  - loops: 🙋 explained
+  - assignment: 🙋 explained
+  - regular expression: 🙋 explained
   - interface: 🖐️ used
   - contract: 🖐️ used
   - module: 🖐️ used
   - call stack: 🎓 known
 - Functions
-  - signature: 🖐️ used
-  - argument: 🖐️ used
+  - signature: 🙋 explained
+  - argument: 🙋 explained
   - parameter: 🙋 explained
   - pure function: 🙋 explained
   - lambda expression: 🙋 explained
   - side effects: 🖐️ used
-  - closure: 🖐️ used
+  - closure: 🙋 explained
   - partial application: 🖐️ used
   - curry: 🖐️ used
   - higher order: 🙋 explained
   - recursion: 🙋 explained
-  - callback: 🖐️ used
+  - callback: 🙋 explained
   - listener: 🖐️ used
   - compose: 🖐️ used
   - pipe: 🖐️ used
-  - memoize: 🖐️ used
-  - wrapper: 🖐️ used
+  - memoize: 🙋 explained
+  - wrapper: 🙋 explained
   - functor: 🎓 known
   - monad: 🎓 known
   - monoid: 🎓 known
@@ -54,51 +54,51 @@
   - coroutine: 🎓 known
 - Data structures
   - array: 🙋 explained
-  - structure: 🖐️ used
-  - record: 🎓 known
-  - enum: 🖐️ used
+  - structure: 🙋 explained
+  - record: 🙋 explained
+  - enum: 🙋 explained
   - instance: 🙋 explained
   - object: 🙋 explained
   - class: 🙋 explained
   - collection: 🙋 explained
-  - set: 🖐️ used
-  - hash table: 🖐️ used
-  - linked list: 🖐️ used
+  - set: 🙋 explained
+  - hash table: 🙋 explained
+  - linked list: 🙋 explained
   - doubly list: 🖐️ used
   - unrolled list: 🖐️ used
   - circular list: 🖐️ used
-  - queue: 🖐️ used
-  - stack: 🖐️ used
+  - queue: 🙋 explained
+  - stack: 🙋 explained
   - deque: 👂 heard
-  - tree: 🖐️ used
-  - graph: 🖐️ used
-  - iterator: 🖐️ used
+  - tree: 🙋 explained
+  - graph: 🙋 explained
+  - iterator: 🙋 explained
   - mutable state: 🖐️ used
   - immutable state: 👂 heard
   - serialization: 🎓 known
-  - string parsing: 🖐️ used
+  - string parsing: 🙋 explained
 - Process & style
-  - compiler: 🎓 known
+  - compiler: 🖐️ used
   - transpiler: 🎓 known
-  - linter: 🎓 known
+  - linter: 🖐️ used
   - polyfill: 🎓 known
-  - debugger: 🎓 known
-  - refactoring: 🖐️ used
-  - code review: 🖐️ used
-  - antipatterns: 🖐️ used
-  - paradigm: 🖐️ used
-  - algorithm: 🖐️ used
-  - magic numbers: 🖐️ used
-  - hardcode: 🖐️ used
-  - complexity: 🖐️ used
-  - decomposition: 🖐️ used
-  - spaghetti: 🖐️ used
+  - debugger: 🖐️ used
+  - refactoring: 🙋 explained
+  - code review: 🙋 explained
+  - antipatterns: 🙋 explained
+  - paradigm: 🙋 explained
+  - algorithm: 🙋 explained
+  - magic numbers: 🙋 explained
+  - hardcode: 🙋 explained
+  - complexity: 🙋 explained
+  - decomposition: 🙋 explained
+  - spaghetti: 🙋 explained
   - silver bullet: 🎓 known
   - not invented here: 🎓 known
   - dead code:  🙋 explained
   - unreachable code:  🙋 explained
   - duplicate code:  🙋 explained
-  - exception: 🖐️ used
+  - exception: 🙋 explained
   - return early: 🎓 known
   - unittest: 🖐️ used
   - git:  🙋 explained

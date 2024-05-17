@@ -17,8 +17,8 @@
   - Caching in CJS and ESM
   - Modules as singletons: 🎓 known
   - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules: 🖐️ used
-  - Dependencies: package.json and package lock: 🖐️ used
+  - Dependencies: npm, node_modules: 🙋 explained
+  - Dependencies: package.json and package lock: 🙋 explained
   - Module-based permissions model: 🎓 known
   - Isolation with modularity
   - Dependency injection: 👂 heard
@@ -27,7 +27,7 @@
   - Framework agnostic approach
 - Environment
   - Command line arguments: 🖐️ used
-  - Node.js CLI: 🖐️ used
+  - Node.js CLI: 🙋 explained
   - Process-based permissions
   - Graceful shutdown
   - Clustering: 🎓 known
@@ -47,11 +47,11 @@
   - AsyncLocalStorage
   - AsyncResource
   - Deprecated domain API
-  - Node.js single executable
+  - Node.js single executable:👂 heard
   - Stream back pressure
   - SharedArrayBuffer
-  - node:worker_threads
-  - node:child_process
+  - node:worker_threads:👂 heard
+  - node:child_process:👂 heard
   - MessageChannel, MessagePort
   - BroadcastChannel
   - Generating crypto random UUID
@@ -61,8 +61,8 @@
   - Blob, File, Buffer, node:buffer
   - Module node:zlib
 - Application structure and architecture
-  - Isolation between layer
-  - Multilayer approach
+  - Isolation between layer: 🎓 known
+  - Multilayer approach: 🎓 known
   - Separation of concerns
   - Inversion of control: 👂 heard
   - Dependency injection: 👂 heard
@@ -86,35 +86,35 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S): 🖐️ used
-  - TCP/SSL: 🖐️ used
-  - UDP: 🖐️ used
-  - TLS: 🖐️ used
+  - HTTP(S): 🙋 explained
+  - TCP/SSL: 🙋 explained
+  - UDP: 🙋 explained
+  - TLS: 🙋 explained
   - Websocket: 👂 heard
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST: 👂 heard
+  - REST: 🙋 explained
   - RPC
   - Routing: 👂 heard
-  - DoS: 🎓 known
-  - DDoS: 🖐️ used
+  - DoS: 🙋 explained
+  - DDoS: 🙋 explained
   - XSS
   - Path traversal
   - CSRF
   - DNS
   - Fetch API: 🎓 known
   - IncomingMessage
-  - SQL injection
+  - SQL injection: 🙋 explained
   - noDelay
   - keep-alive
   - ALPN
   - SNI callback
-  - SSL certificates: 👂 heard
+  - SSL certificates: 🙋 explained
   - Protocol agnostic approach
 - Technique and tools
   - Native test runner: 👂 heard
-  - Logging
+  - Logging: 🎓 known
   - Application configuring
   - Testing: 🖐️ used
   - CI/CD: 🖐️ used
@@ -126,9 +126,9 @@
   - Console: 🖐️ used
   - Inspector: 🎓 known
   - Reliability: 🎓 known
-  - Quality
-  - Availability
-  - Flexibility
+  - Quality: 🎓 known
+  - Availability: 🎓 known
+  - Flexibility: 🎓 known
 - Data access
   - Data access layer
   - Repository: 🖐️ used
@@ -145,11 +145,11 @@
   - Error.captureStackTrace
   - Uncaught exceptions
   - Heap dump
-  - Debugging tools
+  - Debugging tools: 👂 heard
   - Flame graph
   - Memory leaks: 👂 heard
-  - Resource leaks
-  - Data race
+  - Resource leaks: 👂 heard
+  - Data race: 👂 heard
 - Integrations and bindings
   - Native addons: 👂 heard
   - C and C++ addons
